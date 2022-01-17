@@ -14,3 +14,6 @@ UniSat is a STEM program for girls, on assembling and launching a nanosatellite.
 * [Exercise:3](https://www.tinkercad.com/things/9xXQ6qKpdDJ-fabulous-snicket-turing/editel?sharecode=L7JMIMo1HYnkY1u5pXmpVyqCP6ZzZS1ufg0P4P9KoXE). Build the scheme from exercise 1 in TinkerCad and write additional code to build simple traffic lights program.
 
 
+* [Exercise:4](https://www.tinkercad.com/things/4uRCk7OYJcc-ingenious-duup/editel?sharecode=-HN_97TbOnwTCQ3S5w7o1B7FT0Q9lY3TzU_IRq9mebk). Functions exercise on C.
+
+* [Exercise:5](https://www.tinkercad.com/things/5bqbDbriG5V-brave-blorr/editel?sharecode=-b3u1NFnjVkdX86GysYwkiWRmA2kIaw6UQ88G75T-pQ). Spell your team's name using Morze
