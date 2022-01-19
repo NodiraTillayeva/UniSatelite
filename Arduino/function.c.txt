@@ -1,0 +1,31 @@
+// Функция умножает 2 числа
+int multiply(int x, int y)
+{
+  int z=y*x;
+  return z;
+}
+
+// Функция делит 2 числа
+int divide(int x, int y)
+{
+  int z=x/y;
+  return z;
+}
+
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  //Поменяйте аргументы здесь
+  int on=multiply(1000,3);
+  int off=divide(3000,3);
+  
+
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(on);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(off);
+}

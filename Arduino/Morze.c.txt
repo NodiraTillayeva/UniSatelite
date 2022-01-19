@@ -1,0 +1,44 @@
+//Глобальные
+int dot=300;
+int dash=dot*3;
+
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+//Процедура контролирует включение и выключение какого-либо знака
+//Создала чтобы постоянно не переписывать HIGH и LOW
+void Morze(int x)
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(x); // Включить на 300 или 900 взависимости от знака
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(dot); // Выключить на 300 сек
+}
+
+void loop()
+{
+  //N
+  Morze(dash);
+  Morze(dot);  
+  delay(dot*2); //Dot*2 потому что 1 dot уже задан в функции Morze()
+  //a
+  Morze(dot);
+  Morze(dash);
+  delay(dot*2);
+  //d
+  Morze(dash);
+  Morze(dot);
+  Morze(dot);
+  delay(dot*2);
+  //i
+  Morze(dot);
+  Morze(dot);
+  delay(dot*2);
+  //r
+  Morze(dot);
+  Morze(dash);
+  Morze(dot);
+  delay(dot*6); //Конец слова =7точек но одна точка уже задана в функции Morze()
+}
