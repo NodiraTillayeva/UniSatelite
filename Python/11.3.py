@@ -1,5 +1,4 @@
-for a in range(1, 100):
-    a = int(input("Enter a: "))
+for a in range(1, 101):
     if a%2==0:
         print(3*2-1)
     else:
