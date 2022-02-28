@@ -17,3 +17,7 @@ UniSat is a STEM program for girls, on assembling and launching a nanosatellite.
 * [Exercise:4](https://www.tinkercad.com/things/4uRCk7OYJcc-ingenious-duup/editel?sharecode=-HN_97TbOnwTCQ3S5w7o1B7FT0Q9lY3TzU_IRq9mebk). Functions exercise on C.
 
 * [Exercise:5](https://www.tinkercad.com/things/5bqbDbriG5V-brave-blorr/editel?sharecode=-b3u1NFnjVkdX86GysYwkiWRmA2kIaw6UQ88G75T-pQ). Spell your team's name using Morze
+
+* [Exercise:6](https://www.tinkercad.com/things/65PCJUz7fw2-101/editel?sharecode=R22JpycW4F_aV8BHhd_PumAI5LlXreppYtcWf4oAhWU). Introduction to functions
+
+* [Exercise:7](https://www.tinkercad.com/things/5bqbDbriG5V-brave-blorr/editel?sharecode=-b3u1NFnjVkdX86GysYwkiWRmA2kIaw6UQ88G75T-pQ). Days of the week / div / mod
