@@ -1,6 +1,7 @@
 # UniSat Program 
 UniSat is a STEM program for girls, on assembling and launching a nanosatellite. For the first time in Uzbekistan, we launch a program that will increase the interest of girls in cosmonautics!
 
+![asd](https://github.com/NodiraTillayeva/UniSatelite/blob/main/RotationAnimation.gif)
 
 ## Tinker Cad Studies
 * [Exercise:1](https://www.tinkercad.com/things/e45Hr49Gs66-surprising-kieran/editel?sharecode=XFE34AjLHBoN4tCeZ2BBoOIzc8UJmbIN_SyYsuZRnmg). Build this scheme in TinkerCad
